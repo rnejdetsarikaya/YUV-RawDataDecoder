@@ -1,0 +1,48 @@
+C:\Users\NECOO\source\repos\RawDataDecoder\RawDataDecoder\bin\Debug\RawDataDecoder.exe.config
+C:\Users\NECOO\source\repos\RawDataDecoder\RawDataDecoder\bin\Debug\RawDataDecoder.exe
+C:\Users\NECOO\source\repos\RawDataDecoder\RawDataDecoder\bin\Debug\RawDataDecoder.pdb
+C:\Users\NECOO\source\repos\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.csprojAssemblyReference.cache
+C:\Users\NECOO\source\repos\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.Properties.Resources.resources
+C:\Users\NECOO\source\repos\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.csproj.GenerateResource.cache
+C:\Users\NECOO\source\repos\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.csproj.CoreCompileInputs.cache
+C:\Users\NECOO\source\repos\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.exe
+C:\Users\NECOO\source\repos\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.pdb
+C:\Users\NECOO\source\repos\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.Form1.resources
+C:\Users\NECOO\source\repos\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.Settings.resources
+C:\Users\NECOO\source\repos\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.Player.resources
+C:\Users\ali haydar\Desktop\RawDataDecoder\RawDataDecoder\bin\Debug\RawDataDecoder.exe.config
+C:\Users\ali haydar\Desktop\RawDataDecoder\RawDataDecoder\bin\Debug\RawDataDecoder.exe
+C:\Users\ali haydar\Desktop\RawDataDecoder\RawDataDecoder\bin\Debug\RawDataDecoder.pdb
+C:\Users\ali haydar\Desktop\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.Form1.resources
+C:\Users\ali haydar\Desktop\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.Player.resources
+C:\Users\ali haydar\Desktop\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.Properties.Resources.resources
+C:\Users\ali haydar\Desktop\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.Settings.resources
+C:\Users\ali haydar\Desktop\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.csproj.GenerateResource.cache
+C:\Users\ali haydar\Desktop\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.csproj.CoreCompileInputs.cache
+C:\Users\ali haydar\Desktop\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.exe
+C:\Users\ali haydar\Desktop\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.pdb
+C:\Users\ali haydar\Desktop\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.csprojAssemblyReference.cache
+C:\Users\NECOO\Desktop\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.csprojAssemblyReference.cache
+C:\Users\NECOO\Desktop\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.Form1.resources
+C:\Users\NECOO\Desktop\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.Player.resources
+C:\Users\NECOO\Desktop\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.Settings.resources
+C:\Users\NECOO\Desktop\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.csproj.GenerateResource.cache
+C:\Users\NECOO\Desktop\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.Properties.Resources.resources
+C:\Users\NECOO\Desktop\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.csproj.CoreCompileInputs.cache
+C:\Users\NECOO\Desktop\RawDataDecoder\RawDataDecoder\bin\Debug\RawDataDecoder.exe.config
+C:\Users\NECOO\Desktop\RawDataDecoder\RawDataDecoder\bin\Debug\RawDataDecoder.exe
+C:\Users\NECOO\Desktop\RawDataDecoder\RawDataDecoder\bin\Debug\RawDataDecoder.pdb
+C:\Users\NECOO\Desktop\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.exe
+C:\Users\NECOO\Desktop\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.pdb
+C:\Users\NECOO\Desktop\projeler\RawDataDecoder\RawDataDecoder\bin\Debug\RawDataDecoder.exe.config
+C:\Users\NECOO\Desktop\projeler\RawDataDecoder\RawDataDecoder\bin\Debug\RawDataDecoder.exe
+C:\Users\NECOO\Desktop\projeler\RawDataDecoder\RawDataDecoder\bin\Debug\RawDataDecoder.pdb
+C:\Users\NECOO\Desktop\projeler\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.csprojAssemblyReference.cache
+C:\Users\NECOO\Desktop\projeler\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.Form1.resources
+C:\Users\NECOO\Desktop\projeler\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.Player.resources
+C:\Users\NECOO\Desktop\projeler\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.Properties.Resources.resources
+C:\Users\NECOO\Desktop\projeler\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.Settings.resources
+C:\Users\NECOO\Desktop\projeler\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.csproj.GenerateResource.cache
+C:\Users\NECOO\Desktop\projeler\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.csproj.CoreCompileInputs.cache
+C:\Users\NECOO\Desktop\projeler\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.exe
+C:\Users\NECOO\Desktop\projeler\RawDataDecoder\RawDataDecoder\obj\Debug\RawDataDecoder.pdb
